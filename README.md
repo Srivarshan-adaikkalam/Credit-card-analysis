@@ -1,0 +1,1 @@
+This project analyzes credit card customer expenditure using SQL, Excel, Tableau, and R to identify spending patterns and high-value customers, revealing key insights for targeted marketing strategies
